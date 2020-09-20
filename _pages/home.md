@@ -18,9 +18,9 @@ permalink: /
 <img  src="{{ site.url }}{{ site.baseurl }}/images/logopic/iiti-logo.png"  style="box-shadow: none;">
 </div>
 </div>
-<br><br><br><br>
+
 <div>
-<h2 style="text-align:center;color:Tomato;text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;">Swachh Bharat Abhiyaan</h2>  
+<h2 style="padding-top:120px;text-align:center;color:Tomato;text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;">Swachh Bharat Abhiyaan</h2>  
 <hr style="height: 15px;
         border: 0;
         box-shadow: inset 0 12px 12px -12px rgba(9, 84, 132);">
