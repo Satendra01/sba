@@ -20,7 +20,7 @@ permalink: /
 </div>
 <br><br><br><br>
 <div>
-<h2 style="text-align:center">Swachh Bharat Abhiyaan</h2>  
+<h2 style="text-align:center;color:Tomato;text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;">Swachh Bharat Abhiyaan</h2>  
 <hr style="height: 15px;
         border: 0;
         box-shadow: inset 0 12px 12px -12px rgba(9, 84, 132);">
@@ -32,11 +32,11 @@ permalink: /
        about a behavior change regarding sanitation practices, and augmentation of capacity at the local level.
 </p>
 
-<p style="color:green">
+<p style="color:Tomato">Objective :</p><p style="color:green">
 Preparation of a project 'Visual content as an aid to spreading awareness against the spread of Covid-19'
-Digital artworks/posters and its social media presence.
+digital artworks/posters and its social media presence.
 </p>
-<p style="color:#ff9933">
+<p style="color:Tomato">Plan :</p><p style="color:#ff9933">
 Making our campus with zero wastes, separation of decomposable waste, like, chemicals of different labs, electronic waste, polythene, etc.
 Swachhata campaign and behaviour change communication in our adopted Villages.
 </p>
