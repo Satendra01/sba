@@ -1,0 +1,98 @@
+- name: Dr. Niraj Kumar Shukla
+  photo: niraj.png
+  info: <b>Convener</b>
+  email: ebsb@iiti.ac.in
+  number_educ: 1
+  education1: Associate Professor in the Discipline of Mathematics, IIT Indore.[<a href='https://www.iiti.ac.in/people/~nirajshukla/'> more details</a>]
+
+# - name: Dr. Aruna Tiwari
+#   photo: aruna.jpg
+#   info: <b>Member</b>
+#   email: artiwari@iiti.ac.in
+#   number_educ: 1
+#   education1: Associate Professor in the Department of CSE, IIT Indore.[<a href='https://www.iiti.ac.in/people/~artiwari/'> more details</a>]
+
+
+# - name: Dr. Manish K. Goyal
+#   photo: mkgoyal.jpg
+#   info: <b>Member</b>
+#   email: mkgoyal@iiti.ac.in
+#   number_educ: 1
+#   education1: Associate Professor in the Discipline of Civil Engineering, IIT Indore..[<a href='https://sites.google.com/view/mkg1/home'> more details</a>]
+
+
+# - name: Dr. Mrigendra Dubey
+#   photo: dubey.jpg
+#   info: <b>Member</b>
+#   email: mdubey@iiti.ac.in
+#   number_educ: 1
+#   education1: Assistant Professor in the Discipline of MEMS, IIT Indore.[<a href='http://people.iiti.ac.in/~mdubey/'> more details</a>]
+
+- name: Dr. Ananya Ghoshal
+  photo: ananya.jpg
+  info: <b>Member</b>
+  email: aghoshal@iiti.ac.in
+  number_educ: 1
+  education1: Assistant Professor of English in the School of HSS, IIT indore[<a href='https://iiti.irins.org/profile/93843'> more details</a>]
+
+- name: Dr. Ashisha Kumar
+  photo: ashisha.jpg
+  info: <b>Member</b>
+  email: akumar@iiti.ac.in
+  number_educ: 1
+  education1: Assistant Professor in the Discipline of Mathematics, IIT Indore.[<a href='https://www.iiti.ac.in/people/~akumar/'> more details</a>]
+
+
+
+
+- name: Ms. Monika Gupta
+  photo: monika.png
+  info: <b>Member</b>
+  email: counsellor@iiti.ac.in
+  number_educ: 1
+  education1: Counselor at Indian Institute of Technology, IIT Indore.[<a href='http://iiti.ac.in/page/counselor'> more details</a>]
+
+- name: Cdr. Sunil Kumar (Retd.)
+  photo: sunil.jpg
+  info: <b>Member Secretary</b>
+  email: drsa@iiti.ac.in
+  number_educ: 1
+  education1: Deputy Registrar(Student Affairs), IIT Indore.
+
+
+# - name: Mr. Lalit Jain
+#   photo: lalit.jpg
+#   info: <b>Member</b>
+#   email: lalit@iiti.ac.in
+#   number_educ: 1
+#   education1: Deputy Manager(Grade-I) in the Department of CSE, IIT Indore.
+
+
+- name: Mr. Santosh K. Sharma
+  photo: Unknown.png
+  info: <b>Member</b>
+  email: santosh@iiti.ac.in
+  number_educ: 1
+  education1: Mr. Santosh Kumar Sharma is Deputy Manager (Lab) Metrology Lab, at IIT Indore.
+
+
+- name: Mr. Dushyant Pratap
+  photo: Unknown.png
+  info: <b>Member</b>
+  email: dushyant@iiti.ac.in
+  number_educ: 1
+  education1: Deputy Manager in Material Management Section at IIT Indore
+
+- name: AVANA Club Head
+  photo: avana.jpg
+  info: <b>Student Coordinator</b>
+  email: avana@iiti.ac.in
+  number_educ: 1
+  education1: AVANA is social welfare initiative taken up by students of IIT Indore.
+
+- name: Students’ Gymkhana General Secretary
+  photo: gymkhana.jpg
+  info: <b>Student Coordinator</b>
+  email: gensecy@iiti.ac.in
+  number_educ: 1
+  education1: The Students’ Gymkhana is a body of elected student representatives. [<a href='https://gymkhana-2a704.firebaseapp.com/'> more details</a>]
