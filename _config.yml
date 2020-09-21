@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Rashtriya Avishkar Abhiyan is a unique concept developed by the Ministry of Human Resource Development
   that aims to inculcate a spirit of inquiry, creativity and love for Science and Mathematics in school children.
 
-# url: "https://webpagetemplate.github.io/"
-# baseurl: "sba"
+url: "https://webpagetemplate.github.io/"
+baseurl: "sba"
 include:
   - .htaccess
   - _pages
