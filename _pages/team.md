@@ -1,7 +1,7 @@
 ---
-title: "Team-EBSB "
+title: "Team-SBA "
 layout: gridlay
-excerpt: "EBSB @ IITi: Team members"
+excerpt: "SBA @ IITi: Team members"
 sitemap: false
 permalink: /team/
 ---
