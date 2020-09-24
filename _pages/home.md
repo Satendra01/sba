@@ -9,13 +9,13 @@ permalink: /
 
 
 
-<a style="float:left" href="https://swachhbharat.mygov.in"><img  src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbalogo1.png" width="125"  style="box-shadow: none;padding-top:10px" ></a>
+<a style="float:left" href="https://swachhbharat.mygov.in"><img  src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbalogo3.png" width="130" height="130"  style="box-shadow: none;padding-top:10px" ></a>
 
 
 
 
 <a style="float:right" href="https://www.iiti.ac.in">
-<img  src="{{ site.url }}{{ site.baseurl }}/images/logopic/iiti-logo.png" sidth="125" style="box-shadow: none;"></a>
+<img  src="{{ site.url }}{{ site.baseurl }}/images/logopic/iiti-logo.png"  style="box-shadow: none;"></a>
 
 
 <div>
