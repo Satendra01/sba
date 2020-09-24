@@ -7,17 +7,16 @@ permalink: /
 ---
 
 
-<div id=header>
-<div style="float:left">
-<img  src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbalogo.png" width="125"  style="box-shadow: none;" >
-</div>
+
+
+<a style="float:left" href="https://swachhbharat.mygov.in"><img  src="{{ site.url }}{{ site.baseurl }}/images/logopic/sbalogo1.png" width="125"  style="box-shadow: none;padding-top:10px" ></a>
 
 
 
-<div style="float:right">
-<img  src="{{ site.url }}{{ site.baseurl }}/images/logopic/iiti-logo.png"  style="box-shadow: none;">
-</div>
-</div>
+
+<a style="float:right" href="https://www.iiti.ac.in">
+<img  src="{{ site.url }}{{ site.baseurl }}/images/logopic/iiti-logo.png" sidth="125" style="box-shadow: none;"></a>
+
 
 <div>
 <h2 style="padding-top:120px;text-align:center;color:Tomato;text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;">Swachh Bharat Abhiyaan</h2>  
